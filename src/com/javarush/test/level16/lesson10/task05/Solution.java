@@ -39,6 +39,7 @@ public class Solution
 
      //   Water.isCurrentThreadInterrupted =
         //add your code here - добавь код тут
+        //
     }
 
     private static void initThreadsAndStart()
